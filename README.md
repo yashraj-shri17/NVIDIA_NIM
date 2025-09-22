@@ -22,14 +22,12 @@ It allows you to upload resumes in PDF format, embed them into a vector store, a
 ---
 
 ## 📂 Project Structure
-```plaintext
 .
 ├── resume/                # Folder containing your PDF resumes
 ├── .env                   # Environment file (store your NVIDIA_API_KEY here)
 ├── app.py                 # Main Streamlit app
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
-````
 
 ---
 
