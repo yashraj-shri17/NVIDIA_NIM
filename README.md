@@ -103,10 +103,3 @@ It allows you to upload resumes in PDF format, embed them into a vector store, a
 ## 📜 License
 
 This project is licensed under the **MIT License**.
-
-```
-
-⚡ Ye ek hi markdown file hai jisme sab included hai. Aap isko `README.md` me paste karke push karoge toh GitHub par bilkul properly structured dikhega.  
-
-Kya aap chahte ho main aapke `requirements.txt` ka ready content bhi de du taaki turant kaam kare?
-```
