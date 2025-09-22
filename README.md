@@ -91,10 +91,21 @@ See `requirements.txt` for complete list.
 ## 📸 Example
 
 **User Question:**
-> "What are my key skills?"
+> "How many projects on llm has been done by Yashraj Shrivastava"
 
 **AI Response:**
-> "Your resume highlights skills in Python, Data Science, Machine Learning, and Project Management with experience in building scalable applications."
+> "Yashraj Shrivastava has worked on 2 projects involving Large Language Models (LLMs).
+These projects were developed using modern LLM tech stacks, including:
+
+LangChain for building retrieval-augmented pipelines and conversational chains.
+
+FAISS for vector database and semantic search.
+
+NVIDIA AI Endpoints for embeddings and inference.
+
+Streamlit for creating interactive user interfaces.
+
+These projects demonstrate practical applications of LLMs in building intelligent, resume-querying assistants and AI-driven solutions."
 
 ---
 
