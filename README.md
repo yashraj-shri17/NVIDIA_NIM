@@ -94,18 +94,7 @@ See `requirements.txt` for complete list.
 > "How many projects on llm has been done by Yashraj Shrivastava"
 
 **AI Response:**
-> "Yashraj Shrivastava has worked on 2 projects involving Large Language Models (LLMs).
-These projects were developed using modern LLM tech stacks, including:
-
-LangChain for building retrieval-augmented pipelines and conversational chains.
-
-FAISS for vector database and semantic search.
-
-NVIDIA AI Endpoints for embeddings and inference.
-
-Streamlit for creating interactive user interfaces.
-
-These projects demonstrate practical applications of LLMs in building intelligent, resume-querying assistants and AI-driven solutions."
+> "Yashraj Shrivastava has done 2 projects on LLMs using LangChain, FAISS, and NVIDIA AI Endpoints."
 
 ---
 
