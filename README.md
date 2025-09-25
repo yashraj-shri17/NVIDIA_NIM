@@ -94,7 +94,7 @@ See `requirements.txt` for complete list.
 > "How many projects on llm has been done by Yashraj Shrivastava"
 
 **AI Response:**
-> "Yashraj Shrivastava has done 2 projects on LLMs using LangChain, FAISS, and NVIDIA AI Endpoints."
+> "Yashraj Shrivastava has done 2 projects on LLMs using LangChain, FAISS, and NVIDIA AI Endpoints etc."
 
 ---
 
